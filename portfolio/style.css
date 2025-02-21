@@ -1,0 +1,74 @@
+.links{
+    margin-top: 60px;
+    text-align: center;
+    word-spacing: 80px;
+    
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+a:hover{
+    color:blue ;
+}
+body{
+    background-image: url(images/yes.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-family:monospace;
+    font-size: 50px;
+}
+.day{
+    margin-top: 20px;
+}
+.image{
+    border: solid 2px;
+    border-radius: 3px;
+}
+.terms{
+    color: black;
+}
+html, body{
+    text-align: center;
+}
+.about{
+    margin-top: 40px;
+    font-size: 30px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    width: 40%;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+  th, td {
+    padding: 20x;
+    border: 1px solid black;
+}
+h3{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.contact{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.loc{
+    margin-top: 40px;
+    text-align: center;
+}
+.send{
+    margin-top: 20px;
+    font-size: 17px;
+    
+}
